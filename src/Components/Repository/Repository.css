@@ -1,0 +1,16 @@
+.repo {
+    border: none;
+    width: 250px;
+    border-radius: .4rem;
+    overflow: hidden;
+    box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s;
+    margin: 5px;
+}
+
+.repo:hover {
+    width: 400px;
+    transform: translateY(-0.5%);
+    box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.5)
+}
