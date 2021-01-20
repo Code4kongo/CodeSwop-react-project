@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CodeSwop-react-project/static/css/main.534325ae.chunk.css",
+    "main.js": "/CodeSwop-react-project/static/js/main.f57b193f.chunk.js",
+    "main.js.map": "/CodeSwop-react-project/static/js/main.f57b193f.chunk.js.map",
+    "runtime-main.js": "/CodeSwop-react-project/static/js/runtime-main.8175fac8.js",
+    "runtime-main.js.map": "/CodeSwop-react-project/static/js/runtime-main.8175fac8.js.map",
+    "static/js/2.d46c9141.chunk.js": "/CodeSwop-react-project/static/js/2.d46c9141.chunk.js",
+    "static/js/2.d46c9141.chunk.js.map": "/CodeSwop-react-project/static/js/2.d46c9141.chunk.js.map",
+    "static/js/3.4ae7ff85.chunk.js": "/CodeSwop-react-project/static/js/3.4ae7ff85.chunk.js",
+    "static/js/3.4ae7ff85.chunk.js.map": "/CodeSwop-react-project/static/js/3.4ae7ff85.chunk.js.map",
+    "index.html": "/CodeSwop-react-project/index.html",
+    "static/css/main.534325ae.chunk.css.map": "/CodeSwop-react-project/static/css/main.534325ae.chunk.css.map",
+    "static/js/2.d46c9141.chunk.js.LICENSE.txt": "/CodeSwop-react-project/static/js/2.d46c9141.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8175fac8.js",
+    "static/js/2.d46c9141.chunk.js",
+    "static/css/main.534325ae.chunk.css",
+    "static/js/main.f57b193f.chunk.js"
+  ]
+}
